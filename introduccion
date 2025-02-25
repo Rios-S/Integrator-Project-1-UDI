@@ -1,2 +1,21 @@
 Proyecto a la solucion de prestamos de salones y equipos audiovisuales.
-Para empezar la formulacion del software, hay que tener en cuenta los requerimientos solicitados para poder hacer el prestamo.
+Para empezar la formulacion del software, hay que tener en cuenta los requerimientos solicitados para poder hacer el prestamo y los requisitos para el software.
+
+[presta001]El software debe permitir solicitar hasta 4 dispositivo de audiovisuales al dia a cada profesor
+Fuente:
+Prioridad: Obligatorio (1), Deseable (4) 
+Importancia: 6
+Estado de revision: En proceso
+Verificable: Si
+Verificacion: 
+Descripcion: Se debe solicitar el id de cada profesor para verificar cuantos audiovisuales ha registrado.
+
+[presta002] El software debe permitir solicitar una sala hasta con 60 minutos de antelacion.
+Fuente:
+Prioridad: Obligatorio (30 minutos antes)
+Importancia: 
+Quien aprueba:
+Verificable:
+Descripcion:
+Preguntas: Puede un profesor puede reservar dos salas al tiempo?
+Costo estimado: 1 mes.
